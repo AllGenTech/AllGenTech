@@ -1768,7 +1768,8 @@
   flex-direction: column;
 }
 .footer-image1 {
-  height: 2rem;
+  height: 4rem;
+  border-radius: 15px;
 }
 .footer-actions {
   gap: 16px;
